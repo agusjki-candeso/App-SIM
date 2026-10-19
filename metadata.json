@@ -1,0 +1,6 @@
+{
+  "name": "JadwalSync - Pengelola Jadwal & Google Sheets",
+  "description": "Sistem Informasi Manajemen Sekolah SMK Negeri 2 Songgom Brebes terintegrasi Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

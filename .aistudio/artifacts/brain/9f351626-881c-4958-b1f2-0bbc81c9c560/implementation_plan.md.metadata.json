@@ -1,0 +1,6 @@
+{
+  "summary": "Rencana implementasi arsitektur dan rancangan struktur database Google Sheets untuk Modul Ujian Sekolah Anti-Contek (CBT Anti-Cheat), mendukung tipe soal Pilihan Ganda, Esai, dan Ceklist (pilihan ganda kompleks), sistem deteksi pelanggaran real-time, token ujian, serta sinkronisasi otomatis ke Google Sheets.",
+  "updatedAt": "2026-10-16T05:51:34.584886682Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
